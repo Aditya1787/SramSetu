@@ -28,3 +28,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-08 11:22]**: feat(technician): build technician active job timeline (En Route -> Arrived)
 - **[2026-08-08 17:05]**: feat(technician): add live navigation launcher for service destination
 - **[2026-08-08 18:24]**: feat(workflow): implement mid-job extra material approval protocol
+- **[2026-08-08 21:42]**: feat(workflow): add customer authorization prompt for price adjustments
