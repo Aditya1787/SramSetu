@@ -33,3 +33,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-09 10:26]**: feat(payments): add Cash on Delivery (COD) settlement workflow
 - **[2026-08-09 12:31]**: feat(payments): generate itemized digital invoice with GST breakdown
 - **[2026-08-09 19:06]**: feat(feedback): add post-service rating and review submission
+- **[2026-08-09 21:16]**: feat(trust): implement technician background verification badge widget
