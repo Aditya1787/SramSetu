@@ -34,3 +34,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-09 12:31]**: feat(payments): generate itemized digital invoice with GST breakdown
 - **[2026-08-09 19:06]**: feat(feedback): add post-service rating and review submission
 - **[2026-08-09 21:16]**: feat(trust): implement technician background verification badge widget
+- **[2026-08-10 13:59]**: feat(admin): build admin dispute resolution audit log
