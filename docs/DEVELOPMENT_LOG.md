@@ -45,3 +45,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-12 12:02]**: style(ui): enhance mobile responsiveness and accessible color contrast
 - **[2026-08-12 13:25]**: chore: setup CI linting and formatting workflows
 - **[2026-08-12 18:21]**: docs: update API documentation and endpoint schemas
+- **[2026-08-12 21:41]**: feat(notifications): add SMS alert gateway integration for booking updates
