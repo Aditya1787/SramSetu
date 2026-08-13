@@ -49,3 +49,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-13 14:47]**: feat(notifications): implement in-app push notifications for order status
 - **[2026-08-13 20:56]**: test(booking): add integration tests for booking creation to completion
 - **[2026-08-13 22:21]**: feat(technician): add daily and weekly earnings analytics screen
+- **[2026-08-13 22:29]**: feat(warranty): introduce 30-day post-service warranty tracking
