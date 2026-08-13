@@ -47,3 +47,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-12 18:21]**: docs: update API documentation and endpoint schemas
 - **[2026-08-12 21:41]**: feat(notifications): add SMS alert gateway integration for booking updates
 - **[2026-08-13 14:47]**: feat(notifications): implement in-app push notifications for order status
+- **[2026-08-13 20:56]**: test(booking): add integration tests for booking creation to completion
