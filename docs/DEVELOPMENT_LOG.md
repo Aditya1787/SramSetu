@@ -62,3 +62,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-15 21:57]**: feat(auth): initialize Supabase authentication client setup
 - **[2026-08-16 11:36]**: feat(auth): implement phone OTP verification service
 - **[2026-08-16 12:59]**: feat(auth): add role-based authorization rules (customer, technician, admin)
+- **[2026-08-16 15:25]**: feat(db): create initial schema for user profiles and contact info
