@@ -64,3 +64,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-16 12:59]**: feat(auth): add role-based authorization rules (customer, technician, admin)
 - **[2026-08-16 15:25]**: feat(db): create initial schema for user profiles and contact info
 - **[2026-08-16 16:03]**: feat(db): add migrations for technician trust badges and certifications
+- **[2026-08-16 17:56]**: feat(catalog): define service categories: electrical, plumbing, carpentry
