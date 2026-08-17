@@ -67,3 +67,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-16 17:56]**: feat(catalog): define service categories: electrical, plumbing, carpentry
 - **[2026-08-16 19:12]**: feat(catalog): add sub-service definitions and standard problem lists
 - **[2026-08-17 10:20]**: feat(pricing): implement upfront quotation calculation algorithm
+- **[2026-08-17 16:27]**: feat(pricing): add material pricing lookup matrix with regional modifiers
