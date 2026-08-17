@@ -69,3 +69,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-17 10:20]**: feat(pricing): implement upfront quotation calculation algorithm
 - **[2026-08-17 16:27]**: feat(pricing): add material pricing lookup matrix with regional modifiers
 - **[2026-08-17 19:25]**: feat(pricing): introduce transparent visit charge and platform fee breakdown
+- **[2026-08-17 20:51]**: test(pricing): add unit tests for upfront quotation calculator
