@@ -71,3 +71,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-17 19:25]**: feat(pricing): introduce transparent visit charge and platform fee breakdown
 - **[2026-08-17 20:51]**: test(pricing): add unit tests for upfront quotation calculator
 - **[2026-08-18 09:26]**: feat(customer): create mobile home screen layout and search banner
+- **[2026-08-18 11:12]**: feat(customer): add natural language issue input parser
