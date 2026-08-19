@@ -76,3 +76,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-18 20:51]**: feat(customer): build photo/video upload preview for repair inspection
 - **[2026-08-18 21:33]**: feat(booking): design booking lifecycle state machine
 - **[2026-08-19 11:56]**: feat(booking): add emergency priority quick-dispatch mode
+- **[2026-08-19 14:15]**: feat(geo): add geolocation radius clustering for nearby technicians
