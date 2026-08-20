@@ -80,3 +80,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-19 16:40]**: feat(geo): implement Haversine distance calculator for technician dispatch
 - **[2026-08-20 11:03]**: feat(technician): build incoming job lead alert modal
 - **[2026-08-20 14:20]**: feat(technician): implement lead accept and decline action handlers
+- **[2026-08-20 17:54]**: feat(technician): build technician active job timeline (En Route -> Arrived)
