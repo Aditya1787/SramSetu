@@ -82,3 +82,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-20 14:20]**: feat(technician): implement lead accept and decline action handlers
 - **[2026-08-20 17:54]**: feat(technician): build technician active job timeline (En Route -> Arrived)
 - **[2026-08-20 19:55]**: feat(technician): add live navigation launcher for service destination
+- **[2026-08-21 12:00]**: feat(workflow): implement mid-job extra material approval protocol
