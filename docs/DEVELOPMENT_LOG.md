@@ -85,3 +85,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-21 12:00]**: feat(workflow): implement mid-job extra material approval protocol
 - **[2026-08-21 15:37]**: feat(workflow): add customer authorization prompt for price adjustments
 - **[2026-08-21 18:27]**: feat(payments): integrate Razorpay payment intent initialization
+- **[2026-08-21 22:15]**: feat(payments): add Cash on Delivery (COD) settlement workflow
