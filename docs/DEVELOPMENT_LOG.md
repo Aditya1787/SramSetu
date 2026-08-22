@@ -87,3 +87,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-21 18:27]**: feat(payments): integrate Razorpay payment intent initialization
 - **[2026-08-21 22:15]**: feat(payments): add Cash on Delivery (COD) settlement workflow
 - **[2026-08-22 09:34]**: feat(payments): generate itemized digital invoice with GST breakdown
+- **[2026-08-22 10:14]**: feat(feedback): add post-service rating and review submission
