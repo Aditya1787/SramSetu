@@ -93,3 +93,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-22 14:29]**: feat(admin): create master price editor for materials and labor rates
 - **[2026-08-22 15:26]**: perf(db): add spatial indexes for technician geolocation queries
 - **[2026-08-23 11:26]**: perf(cache): implement in-memory cache for static service catalogs
+- **[2026-08-23 17:21]**: fix(auth): resolve session token expiration edge case
