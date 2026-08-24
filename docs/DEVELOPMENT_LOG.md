@@ -96,3 +96,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-23 17:21]**: fix(auth): resolve session token expiration edge case
 - **[2026-08-23 18:37]**: fix(pricing): correct GST rounding precision on multi-item service orders
 - **[2026-08-23 20:30]**: fix(geo): add fallback coordinate resolution when GPS is unavailable
+- **[2026-08-24 12:40]**: refactor(booking): consolidate status transitions and webhook triggers
