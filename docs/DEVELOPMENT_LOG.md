@@ -99,3 +99,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-24 12:40]**: refactor(booking): consolidate status transitions and webhook triggers
 - **[2026-08-24 12:51]**: style(ui): enhance mobile responsiveness and accessible color contrast
 - **[2026-08-24 18:27]**: chore: setup CI linting and formatting workflows
+- **[2026-08-24 21:01]**: docs: update API documentation and endpoint schemas
