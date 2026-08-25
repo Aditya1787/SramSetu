@@ -105,3 +105,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-25 10:20]**: test(booking): add integration tests for booking creation to completion
 - **[2026-08-25 11:18]**: feat(technician): add daily and weekly earnings analytics screen
 - **[2026-08-25 13:05]**: feat(warranty): introduce 30-day post-service warranty tracking
+- **[2026-08-25 13:28]**: fix(workflow): prevent mid-job approval timeout race condition
