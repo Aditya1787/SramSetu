@@ -108,3 +108,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-25 13:28]**: fix(workflow): prevent mid-job approval timeout race condition
 - **[2026-08-25 16:57]**: perf: optimize asset compression and font preloading for fast load times
 - **[2026-08-25 18:04]**: feat(customer): implement saved address manager (Home, Office, Other)
+- **[2026-08-26 09:22]**: refactor: clean up deprecated API routes and update error handlers
