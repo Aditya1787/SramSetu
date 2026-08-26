@@ -110,3 +110,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-25 18:04]**: feat(customer): implement saved address manager (Home, Office, Other)
 - **[2026-08-26 09:22]**: refactor: clean up deprecated API routes and update error handlers
 - **[2026-08-26 10:27]**: feat(search): add fuzzy search matching for home repair services
+- **[2026-08-26 20:01]**: test(auth): add automated test suite for login and OTP validation
