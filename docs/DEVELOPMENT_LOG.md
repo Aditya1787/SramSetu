@@ -111,3 +111,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-26 09:22]**: refactor: clean up deprecated API routes and update error handlers
 - **[2026-08-26 10:27]**: feat(search): add fuzzy search matching for home repair services
 - **[2026-08-26 20:01]**: test(auth): add automated test suite for login and OTP validation
+- **[2026-08-26 21:19]**: feat(support): add WhatsApp support link and help desk escalation flow
