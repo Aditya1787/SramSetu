@@ -118,3 +118,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-27 18:01]**: feat(auth): implement phone OTP verification service
 - **[2026-08-27 20:40]**: feat(auth): add role-based authorization rules (customer, technician, admin)
 - **[2026-08-28 10:51]**: feat(db): create initial schema for user profiles and contact info
+- **[2026-08-28 10:54]**: feat(db): add migrations for technician trust badges and certifications
