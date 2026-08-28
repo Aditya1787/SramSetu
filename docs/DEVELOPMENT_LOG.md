@@ -121,3 +121,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-28 10:54]**: feat(db): add migrations for technician trust badges and certifications
 - **[2026-08-28 12:29]**: feat(catalog): define service categories: electrical, plumbing, carpentry
 - **[2026-08-28 13:23]**: feat(catalog): add sub-service definitions and standard problem lists
+- **[2026-08-28 16:11]**: feat(pricing): implement upfront quotation calculation algorithm
