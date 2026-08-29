@@ -123,3 +123,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-28 13:23]**: feat(catalog): add sub-service definitions and standard problem lists
 - **[2026-08-28 16:11]**: feat(pricing): implement upfront quotation calculation algorithm
 - **[2026-08-28 17:19]**: feat(pricing): add material pricing lookup matrix with regional modifiers
+- **[2026-08-29 20:16]**: feat(pricing): introduce transparent visit charge and platform fee breakdown
