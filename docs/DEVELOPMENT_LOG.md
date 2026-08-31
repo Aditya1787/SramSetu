@@ -132,3 +132,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-08-30 13:29]**: feat(booking): design booking lifecycle state machine
 - **[2026-08-30 18:24]**: feat(booking): add emergency priority quick-dispatch mode
 - **[2026-08-31 10:06]**: feat(geo): add geolocation radius clustering for nearby technicians
+- **[2026-08-31 10:32]**: feat(geo): implement Haversine distance calculator for technician dispatch
