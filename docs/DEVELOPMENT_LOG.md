@@ -146,3 +146,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-02 17:33]**: feat(trust): implement technician background verification badge widget
 - **[2026-09-02 18:44]**: feat(admin): build admin dispute resolution audit log
 - **[2026-09-02 20:32]**: feat(admin): create master price editor for materials and labor rates
+- **[2026-09-02 21:08]**: perf(db): add spatial indexes for technician geolocation queries
