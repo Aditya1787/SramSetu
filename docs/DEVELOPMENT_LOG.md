@@ -149,3 +149,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-02 21:08]**: perf(db): add spatial indexes for technician geolocation queries
 - **[2026-09-02 21:30]**: perf(cache): implement in-memory cache for static service catalogs
 - **[2026-09-02 21:43]**: fix(auth): resolve session token expiration edge case
+- **[2026-09-03 10:13]**: fix(pricing): correct GST rounding precision on multi-item service orders
