@@ -152,3 +152,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-03 10:13]**: fix(pricing): correct GST rounding precision on multi-item service orders
 - **[2026-09-03 14:36]**: fix(geo): add fallback coordinate resolution when GPS is unavailable
 - **[2026-09-03 22:00]**: refactor(booking): consolidate status transitions and webhook triggers
+- **[2026-09-04 10:13]**: style(ui): enhance mobile responsiveness and accessible color contrast
