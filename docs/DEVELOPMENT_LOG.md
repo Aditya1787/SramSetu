@@ -156,3 +156,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-04 10:37]**: chore: setup CI linting and formatting workflows
 - **[2026-09-04 12:25]**: docs: update API documentation and endpoint schemas
 - **[2026-09-04 17:55]**: feat(notifications): add SMS alert gateway integration for booking updates
+- **[2026-09-05 11:17]**: feat(notifications): implement in-app push notifications for order status
