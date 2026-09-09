@@ -175,3 +175,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-08 22:04]**: feat(db): create initial schema for user profiles and contact info
 - **[2026-09-09 11:30]**: feat(db): add migrations for technician trust badges and certifications
 - **[2026-09-09 13:46]**: feat(catalog): define service categories: electrical, plumbing, carpentry
+- **[2026-09-09 15:12]**: feat(catalog): add sub-service definitions and standard problem lists
