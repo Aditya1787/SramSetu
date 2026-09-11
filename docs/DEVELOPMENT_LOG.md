@@ -183,3 +183,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-10 21:15]**: feat(customer): create mobile home screen layout and search banner
 - **[2026-09-11 11:01]**: feat(customer): add natural language issue input parser
 - **[2026-09-11 11:13]**: feat(customer): implement problem category selector component
+- **[2026-09-11 11:32]**: feat(customer): build photo/video upload preview for repair inspection
