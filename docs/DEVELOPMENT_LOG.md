@@ -182,3 +182,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-10 18:31]**: test(pricing): add unit tests for upfront quotation calculator
 - **[2026-09-10 21:15]**: feat(customer): create mobile home screen layout and search banner
 - **[2026-09-11 11:01]**: feat(customer): add natural language issue input parser
+- **[2026-09-11 11:13]**: feat(customer): implement problem category selector component
