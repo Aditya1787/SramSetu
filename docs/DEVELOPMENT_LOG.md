@@ -185,3 +185,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-11 11:13]**: feat(customer): implement problem category selector component
 - **[2026-09-11 11:32]**: feat(customer): build photo/video upload preview for repair inspection
 - **[2026-09-11 13:45]**: feat(booking): design booking lifecycle state machine
+- **[2026-09-11 20:34]**: feat(booking): add emergency priority quick-dispatch mode
