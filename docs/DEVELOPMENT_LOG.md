@@ -194,3 +194,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-13 10:49]**: feat(technician): add live navigation launcher for service destination
 - **[2026-09-13 13:58]**: feat(workflow): implement mid-job extra material approval protocol
 - **[2026-09-13 16:28]**: feat(workflow): add customer authorization prompt for price adjustments
+- **[2026-09-13 20:04]**: feat(payments): integrate Razorpay payment intent initialization
