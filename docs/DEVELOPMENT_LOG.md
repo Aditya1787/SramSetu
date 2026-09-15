@@ -202,3 +202,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-14 21:54]**: feat(admin): build admin dispute resolution audit log
 - **[2026-09-15 09:51]**: feat(admin): create master price editor for materials and labor rates
 - **[2026-09-15 15:33]**: perf(db): add spatial indexes for technician geolocation queries
+- **[2026-09-15 18:33]**: perf(cache): implement in-memory cache for static service catalogs
