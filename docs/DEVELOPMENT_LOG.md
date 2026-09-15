@@ -200,3 +200,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-14 18:39]**: feat(feedback): add post-service rating and review submission
 - **[2026-09-14 21:17]**: feat(trust): implement technician background verification badge widget
 - **[2026-09-14 21:54]**: feat(admin): build admin dispute resolution audit log
+- **[2026-09-15 09:51]**: feat(admin): create master price editor for materials and labor rates
