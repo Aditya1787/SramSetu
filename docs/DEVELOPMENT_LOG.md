@@ -205,3 +205,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-15 18:33]**: perf(cache): implement in-memory cache for static service catalogs
 - **[2026-09-15 19:11]**: fix(auth): resolve session token expiration edge case
 - **[2026-09-16 09:55]**: fix(pricing): correct GST rounding precision on multi-item service orders
+- **[2026-09-16 14:30]**: fix(geo): add fallback coordinate resolution when GPS is unavailable
