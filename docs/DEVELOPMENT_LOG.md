@@ -208,3 +208,4 @@ Milestone logs, architecture decisions, and daily progress tracking.
 - **[2026-09-16 14:30]**: fix(geo): add fallback coordinate resolution when GPS is unavailable
 - **[2026-09-16 15:28]**: refactor(booking): consolidate status transitions and webhook triggers
 - **[2026-09-17 11:00]**: style(ui): enhance mobile responsiveness and accessible color contrast
+- **[2026-09-17 15:17]**: chore: setup CI linting and formatting workflows
